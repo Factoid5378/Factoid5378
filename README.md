@@ -1,10 +1,8 @@
 ### Hola, mi nombre es Iago!👋
 
-¿Quién soy?
-***
+## ¿Quién soy?
 
-Contacto
-***
+## Contacto
 
 
 <!--
