@@ -2,6 +2,8 @@
 
 ## ¿Quién soy?
 
+## Habilidades
+
 ## Contacto
 
 
