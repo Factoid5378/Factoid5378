@@ -2,6 +2,8 @@
 
 ## ¿Quién soy?
 
+Soy un estudiante :student: de un ciclo medio de informático (Sistemas Microinformáticos y Redes)
+
 ## Habilidades
 
 ## Contacto
