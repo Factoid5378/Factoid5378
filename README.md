@@ -1,11 +1,4 @@
 # Hola, mi nombre es Iago!👋
-
-
-
-<p align="center" width="300">
-   <img align="center" width="200" src=/>
-   <h3 align="center">Técnico Informático en proceso de aprendizaje :innocent::muscle:</h3>
-</p>
     
 ## ¿Quién soy?
 
