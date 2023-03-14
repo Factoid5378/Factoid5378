@@ -6,9 +6,20 @@ Soy un estudiante :student: de un ciclo medio de informático (Sistemas Microinf
 
 ## Habilidades :sunglasses:
 
-Considero que gracias a mi curiosidad
+Considero que gracias a mi curiosidad, después de 3 años de investigación, he podido desarrollar las siguientes habilidades informáticas:
 
+* Hardware.
+* MySQL.
+* Sistemas operativos.
+* Servidores.
+* HTML y CSS.
+* Redes.
+* Git y github.
 
+Si quieres seguir sabiendo sobre mi... No olvides repasar mis redes sociales:
+<!--xd-->
+<!--xd-->
+<!--xd-->
 <a href="https://www.linkedin.com/in/iago-valadez-medina-796997233/">
   <img
     width="60"
