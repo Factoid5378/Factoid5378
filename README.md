@@ -20,6 +20,7 @@ Si quieres seguir sabiendo sobre mi... No olvides repasar mis redes sociales:
 <!--xd-->
 <!--xd-->
 <!--xd-->
+
 <a href="https://www.linkedin.com/in/iago-valadez-medina-796997233/">
   <img
     width="60"
