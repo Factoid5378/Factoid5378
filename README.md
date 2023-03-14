@@ -1,6 +1,6 @@
 # Hola, mi nombre es Iago!👋
     
-## ¿Quién soy? :innocent:
+## ¿Quién soy? 🤔
 
 Soy un estudiante :student: de un ciclo medio de informático (Sistemas Microinformáticos y Redes), que debido a su curiosidad, está empezando a entrar en el mundo del desarrollo de software :zap:! Posteriormente, me gustaría seguir desarrollandome, haciendo dos grados superiores de Administración de Sistemas Informáticos y Redes y Desarrollo de Aplicaciones Multiplataforma:computer:. 
 
@@ -16,7 +16,7 @@ Considero que gracias a mi curiosidad, después de 3 años de investigación, he
 * Redes.
 * Git y Github.
 
-Si quieres seguir sabiendo sobre mi... No olvides repasar mis redes sociales:
+### Si quieres seguir sabiendo sobre mi... ***No olvides repasar mis redes sociales:***
 <!--xd-->
 <!--xd-->
 <!--xd-->
