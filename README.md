@@ -1,18 +1,19 @@
 # Hola, mi nombre es Iago!👋
     
-## ¿Quién soy?
+## ¿Quién soy? :innocent:
 
 Soy un estudiante :student: de un ciclo medio de informático (Sistemas Microinformáticos y Redes), que debido a su curiosidad, está empezando a entrar en el mundo del desarrollo de software :zap:! Posteriormente, me gustaría seguir desarrollandome, haciendo dos grados superiores de Administración de Sistemas Informáticos y Redes y Desarrollo de Aplicaciones Multiplataforma:computer:. 
 
-## Habilidades
+## Habilidades :sunglasses:
+
+Considero que gracias a mi curiosidad
 
 
-
-<a href="https://www.linkedin.com/in/iago-valadez-medina-796997233/" title="Follow me on LinkedIn">
+<a href="https://www.linkedin.com/in/iago-valadez-medina-796997233/">
   <img
-    width="24"
-    alt="Follow me on LinkedIn"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
+    width="60"
+    alt="¡Sígueme en LinkedIn!"
+    src="icons/linkedin.png"
   /></a>
 
 <!--
