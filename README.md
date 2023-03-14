@@ -14,7 +14,7 @@ Considero que gracias a mi curiosidad, después de 3 años de investigación, he
 * Servidores.
 * HTML y CSS.
 * Redes.
-* Git y github.
+* Git y Github.
 
 Si quieres seguir sabiendo sobre mi... No olvides repasar mis redes sociales:
 <!--xd-->
