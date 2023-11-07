@@ -2,11 +2,11 @@
     
 ## ¿Quién soy? 🤔
 
-Soy un estudiante :student: de un ciclo medio de informático (Sistemas Microinformáticos y Redes), que debido a su curiosidad, está empezando a entrar en el mundo del desarrollo de software :zap:! Posteriormente, me gustaría seguir desarrollandome, haciendo dos grados superiores de Administración de Sistemas Informáticos y Redes y Desarrollo de Aplicaciones Multiplataforma:computer:. 
+Soy un estudiante :student: de un ciclo superior de informático (Administración de Sistemas Informáticos y Redes), que debido a su curiosidad, está empezando a entrar en el mundo del desarrollo de software :zap:! Posteriormente, me gustaría seguir desarrollandome, haciendo otro grado superior de Desarrollo de Aplicaciones Multiplataforma:computer:. 
 
 ## Habilidades :sunglasses:
 
-Considero que gracias a mi curiosidad, después de 3 años de investigación, he podido desarrollar las siguientes habilidades informáticas:
+Considero que gracias a mi curiosidad, después de 4 años de investigación, he podido desarrollar las siguientes habilidades informáticas:
 
 * Hardware.
 * MySQL.
@@ -14,6 +14,8 @@ Considero que gracias a mi curiosidad, después de 3 años de investigación, he
 * Servidores.
 * HTML y CSS.
 * Redes.
+* C.
+* Pyhton.
 * Git y Github.
 
 ### Si quieres seguir sabiendo sobre mi... ***No olvides repasar mis redes sociales:***
