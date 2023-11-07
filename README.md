@@ -2,7 +2,7 @@
     
 ## ¿Quién soy? 🤔
 
-Soy un estudiante :student: de un ciclo superior de informático (Administración de Sistemas Informáticos y Redes), que debido a su curiosidad, está empezando a entrar en el mundo del desarrollo de software :zap:! Posteriormente, me gustaría seguir desarrollandome, haciendo otro grado superior de Desarrollo de Aplicaciones Multiplataforma:computer:. 
+Soy un estudiante :student: de un ciclo superior de informática (Administración de Sistemas Informáticos y Redes), que debido a su curiosidad, está empezando a entrar en el mundo del desarrollo de software :zap:! Posteriormente, me gustaría seguir desarrollandome, haciendo otro grado superior de Desarrollo de Aplicaciones Multiplataforma:computer:. 
 
 ## Habilidades :sunglasses:
 
