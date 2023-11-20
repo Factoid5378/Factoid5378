@@ -18,7 +18,7 @@ Considero que gracias a mi curiosidad, después de 4 años de investigación, he
 * Pyhton.
 * Git y Github.
 
-### Si quieres seguir sabiendo sobre mi... ***No olvides repasar mis redes sociales:***
+### Si quieres seguir sabiendo sobre mi... No olvides repasar mis redes sociales:
 <!--xd-->
 <!--xd-->
 <!--xd-->
