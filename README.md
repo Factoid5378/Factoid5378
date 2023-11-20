@@ -25,7 +25,7 @@ Considero que gracias a mi curiosidad, después de 4 años de investigación, he
 
 <a href="https://www.linkedin.com/in/iago-valadez-medina-796997233/">
   <img
-    width="60"
+    width="40"
     alt="¡Sígueme en LinkedIn!"
     src="icons/linkedin.png"
   /></a>
